@@ -2,6 +2,11 @@
     background-color: lightgray;
 }
 
+img{
+    width: 100%;
+}
+
+
 ul {
     float:right;
     list-style-type: none;
