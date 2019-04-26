@@ -1,0 +1,28 @@
+﻿body {
+    background-color: burlywood;
+    background-position: top;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+ul {
+    float: right;
+    list-style-type: none;
+}
+
+li {
+    padding: 15px;
+}
+
+skill {
+    display: block;
+    width: 700px;
+    height: 400px;
+    padding: 50px;
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -400px;
+    padding: 10px;
+}
