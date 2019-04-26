@@ -1,5 +1,5 @@
 ﻿body {
-    background:url(resume/image/background.jpg);
+    background:url("resume/image/background.jpg");
     background-size: 100% 50%;
 }
 
