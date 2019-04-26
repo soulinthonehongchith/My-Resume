@@ -11,9 +11,8 @@ li{
     padding:15px;
 }
 
-#box {
+#wrap {
     background-color: white;
-    color: black;
     display: block;
     width: 700px;
     height: 250px;
@@ -23,16 +22,29 @@ li{
     left: 50%;
     margin-top: -50px;
     margin-left: -400px;
+    padding: 10px;
 }
 
-#box1 {
+#image{
+    display:block;
+    float: left;
+    width: 30%;
+    height: 35%;
+    background-color:blue;
+}
+
+#intro {
     display: block;
     float: left;
+    width: 60%;
+    height: 35%;
+    background-color: green;
 }
 
-img {
-    width: 25%;
-    height: 50%;
-    float: left;
-    padding: 10px;
+#purpose {
+    display: block;
+    float:left;
+    width: 100%;
+    height: 35%;
+    background-color: brown;
 }
