@@ -1,5 +1,7 @@
 ﻿body {
-    background-image: url("/resume/image/background.jpg");
+    background-image: url("/resume/image/background1.jpg");
+    background-position:center;
+    background-repeat:no-repeat;
     color: white;
 }
 
@@ -29,8 +31,6 @@ li {
 #image {
     display: block;
     float: left;
-    width: 25%;
-    height:60%
 }
 
 #info {
