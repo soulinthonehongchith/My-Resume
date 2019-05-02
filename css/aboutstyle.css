@@ -29,9 +29,6 @@ li {
 #image {
     display: block;
     float: left;
-    width: 30%;
-    height: 60%;
-    background-color: blue;
 }
 
 #info {
