@@ -30,8 +30,8 @@ li {
 #image {
     display: block;
     float: left;
-    width: 30%;
-    height: 60%;
+    /*width: 30%;
+    height: 60%;*/
 }
 
 #intro {
@@ -39,7 +39,7 @@ li {
     float: right;
     width: 65%;
     height: 50%;
-    margin-left: 5px;
+    margin-left: 0px;
     margin-top: 10px;
 }
 
