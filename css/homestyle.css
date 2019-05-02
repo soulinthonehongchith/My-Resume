@@ -8,11 +8,12 @@
 ul {
     float: right;
     list-style-type: none;
-    text-decoration:none;
 }
 
 li {
     padding: 15px;
+    color: white;
+    list-style-type: none;
 }
 
 #wrap {

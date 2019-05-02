@@ -12,6 +12,8 @@ ul {
 
 li {
     padding: 15px;
+    color: white;
+    list-style-type: none;
 }
 
 #skill {
