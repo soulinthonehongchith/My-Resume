@@ -20,6 +20,10 @@ a {
     text-decoration: none;
 }
 
+#name {
+    padding: 30px;
+}
+
 #wrap {
     display: block;
     width: 700px;
